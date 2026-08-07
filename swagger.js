@@ -11,6 +11,10 @@ const options = {
     },
     servers: [
       {
+    url: "https://backendapi-6faz.onrender.com",
+    description: "Production Server",
+  },
+      {
         url: "http://localhost:3001",
         description: "Development Server",
       },
